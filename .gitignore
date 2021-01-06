@@ -1,0 +1,14 @@
+## Android Studio and Intellij and Android in general
+/android/libs/**
+/android/gen/
+.idea/
+*.iml
+
+## Gradle
+/local.properties
+.gradle/
+build/
+
+## OS Specific
+.DS_Store
+Thumbs.db
